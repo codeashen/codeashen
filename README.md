@@ -1,6 +1,7 @@
-### Hi there 👋
+### When consumed by utter darkness, there is nothing left but forward.
 
 <!--
+### Hi there 👋
 **codeashen/codeashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
