@@ -20,7 +20,7 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
-
+[powered by waka-box-go](https://github.com/codeashen/waka-box-go)
 
 <!--
 ### 
