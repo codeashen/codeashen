@@ -1,6 +1,6 @@
 <p>
   <a href="https://count.getloli.com/get/@codeashen/"><img src="https://count.getloli.com/get/@codeashen"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+<!--   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right"> -->
 </p>
 
 ### When consumed by utter darkness, there is nothing left but forward.
