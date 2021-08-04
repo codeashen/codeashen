@@ -7,7 +7,7 @@
 
 #### 🌏 My Personal Page
 
-- [CodeAhen's Blog](http://codeashen.github.io/)
+- [CodeAshen's Blog](http://codeashen.github.io/)
 - [CodeAshen's Note](https://codeashen.github.io/Notes/#/)
 
 #### 💬 Message Board
