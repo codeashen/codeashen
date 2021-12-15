@@ -21,7 +21,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/b8a76e2f77fae9f88c83d7724b8260e5" target="_blank">📊 每周工作报告</a>
 ```text
-Java 🕓 35m ████████████████████████████████████100.0%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
