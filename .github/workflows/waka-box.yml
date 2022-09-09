@@ -1,12 +1,16 @@
 name: Update wakatime stats
 
-on:
-  push:
-    branches: [master]
-  pull_request:
-    branches: [master]
-  schedule:
-    - cron: "0 0 * * *"
+# 手动执行
+on: workflow_dispatch
+
+# 自动执行
+# on:
+#   push:
+#     branches: [master]
+#   pull_request:
+#     branches: [master]
+#   schedule:
+#     - cron: "5 0 * * *"
 
 jobs:
   build:
