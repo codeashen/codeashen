@@ -8,7 +8,7 @@
 #### 🌏 My Personal Page
 
 - [CodeAshen's Blog](http://codeashen.github.io/)
-- [CodeAshen's Note](https://codeashen.github.io/Notes/#/)
+- [CodeAshen's Note](https://codeashen.github.io/notes/#/)
 
 #### 💬 Message Board
 
@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeashen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/b8a76e2f77fae9f88c83d7724b8260e5" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/b8a76e2f77fae9f88c83d7724b8260e5" target="_blank">📊 weekly work time</a>
 ```text
 Still Gathering Statistics...
 ```
