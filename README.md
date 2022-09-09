@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm CodeAshen</h1>
-<h3 align="center">A backend engineer working in Shanghai.</h3>
+# Hi 👋, I'm CodeAshen
+
+> A backend engineer working in Shanghai.
 
 <p>
   <a href="https://count.getloli.com/get/@codeashen/"><img src="https://count.getloli.com/get/@codeashen"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
 </p>
-
-> 我们一路奋战，不是为了能改变世界，而是为了不让世界改变我们。
 
 #### About me
 
