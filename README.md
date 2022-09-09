@@ -54,7 +54,8 @@
 <tr>
 <td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeashen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- bilibili-box start -->
+<!-- bilibili-box end -->
 
 </td>
 <td valign="top" width="50%">
