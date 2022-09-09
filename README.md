@@ -10,7 +10,7 @@
 
 #### About me
 
-- 🔭 I’m currently working on [Trip](www.trip.com)
+- 🔭 I’m currently working on [Trip.com](www.trip.com)
 - 🌱 I’m currently learning **cloud native**
 - 📝 I regularly write articles on my [notebook](https://codeashen.github.io/notes/#/)
 - 💬 Ask me about **everything I know**
@@ -42,20 +42,17 @@
 
 ![CodeAshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeashen&hide=issues&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeashen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 💬 Click Dialog to Texted me
 
 [![](https://chat.getloli.com/room/@codeashen.github/svg?width=600&height=280&limit=20&theme=light&title=codeashen@github:%20~&fontSize=13)](https://chat.getloli.com/room/@codeashen.github?title=CodeAshen%E7%9A%84%E7%95%99%E8%A8%80%E6%9D%BF)
 
-#### 💻 Top Langs
+#### pinned gists
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-<!-- bilibili-box start -->
-<!-- bilibili-box end -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeashen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td valign="top" width="50%">
@@ -72,6 +69,11 @@ Still Gathering Statistics...
 </td>
 </tr>
 </table>
+
+
+
+
+
 
 <!--
 ### 
