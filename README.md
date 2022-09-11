@@ -9,7 +9,7 @@
 
 #### About me
 
-- 🔭 I’m currently working on [Trip.com](www.trip.com)
+- 🔭 I’m currently working on [Trip.com](https://www.trip.com)
 - 🌱 I’m currently learning **cloud native**
 - 📝 I regularly write articles on my [notebook](https://codeashen.github.io/notes/#/)
 - 💬 Ask me about **everything I know**
