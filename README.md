@@ -41,9 +41,9 @@
 
 ![CodeAshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeashen&hide=issues&show_icons=true)
 
-#### 💬 Click Dialog to Texted me
+#### 💬 Leave me a message
 
-[![](https://chat.getloli.com/room/@codeashen.github/svg?width=600&height=280&limit=20&theme=light&title=codeashen@github:%20~&fontSize=13)](https://chat.getloli.com/room/@codeashen.github?title=CodeAshen%E7%9A%84%E7%95%99%E8%A8%80%E6%9D%BF)
+[![](https://chat.getloli.com/room/@codeashen.github/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=Message%20Board)](https://chat.getloli.com/room/@codeashen.github?title=CodeAshen%E7%9A%84%E7%95%99%E8%A8%80%E6%9D%BF)
 
 #### pinned gists
 
