@@ -3,7 +3,7 @@
 > A backend engineer working in Shanghai.
 
 <p>
-  <a href="https://count.getloli.com/get/@codeashen/"><img src="https://count.getloli.com/get/@codeashen"></a>
+  <a href="https://count.getloli.com/get/@codeashen/"><img src="https://count.getloli.com/get/@codeashen?theme=rule34"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
 </p>
 
