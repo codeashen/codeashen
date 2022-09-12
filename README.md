@@ -27,7 +27,7 @@
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-[![](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=Elatic&logoColor=ffffff)](https://www.elastic.co/cn/)
+[![](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=Elastic&logoColor=ffffff)](https://www.elastic.co/cn/)
 [![](https://img.shields.io/badge/-RocketMQ-D77310?style=flat-square&logo=Apache-Rocketmq&logoColor=ffffff)](https://rocketmq.apache.org/)
 [![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
 [![](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=ffffff)](https://maven.apache.org/)
