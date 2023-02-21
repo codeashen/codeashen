@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Trip.com](https://www.trip.com)
 - 🌱 I’m currently learning **cloud native**
-- 📝 I regularly write articles on my [notebook](https://codeashen.github.io/notes/#/)
+- 📝 I regularly write articles on my [blog](https://codeashen.top) and [notebook](https://notes.codeashen.top)
 - 💬 Ask me about **everything I know**
 - 📫 How to reach me: **codeashen@foxmail.com**
 
